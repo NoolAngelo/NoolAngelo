@@ -6,7 +6,7 @@ I'm Mark Angelo Nool from Manila, Philippines, and I am a student currently enro
 ## Skills and Experience
 
 - 📖 I’m currently learning: Java / C++ / Python / HTML / CSS / JS
-- 📫 How to reach me: markangelonool0@gmail.com 
+- 🤔 Interest : Coding / Music / IEMs / ⌨ Mechanical Keyboards / Robotics /  Social Networking Privacy / Reverse Engineering and more!
 - ⚡ Fun fact: I really love playing Guitar both acoustic and Electric Guitars :) 
 
 ###
