@@ -1,4 +1,4 @@
-### Hi there 👋, Mark Angelo Nool
+### Mark Angelo Nool
 #### Computer Science Student @ FEU Alabang
 ![Computer Science Student @ FEU Alabang](https://pbs.twimg.com/profile_banners/926740634903363584/1683717752/600x200)
 
