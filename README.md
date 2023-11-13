@@ -4,10 +4,9 @@
 Hello there, 
 I'm Mark Angelo Nool from Manila, Philippines, and I am a student currently enrolled at Far Eastern University in Alabang. I really enjoy learning how to code and exploring new things related to not just computers but to technologies in general and how they work!
 
-## Skills: C++ / JAVA / HTML / CSS / 
+## Skills and Experience
 
-- 📖 I’m currently learning Java / HTML / CSS 
-- 👨‍🏫 I’m looking for help with C++ / Java / HTML / Python 
+- 📖 I’m currently learning: Java / C++ / Python / HTML / CSS / JS
 - 📫 How to reach me: markangelonool0@gmail.com 
 - ⚡ Fun fact: I really love playing Guitar both acoustic and Electric Guitars :) 
 
