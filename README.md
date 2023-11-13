@@ -1,7 +1,7 @@
 <img src="https://github.com/NoolAngelo/NoolAngelo/blob/main/Banner.jpg" width="900"/>
 
 # Mark Angelo Nool
-I'm Mark Angelo Nool from Manila, Philippines, and I am a student currently enrolled at Far Eastern University in Alabang. I really enjoy learning how to code and exploring new things related to not just computers but to technologies in general and how they work!
+Hi, I'm Mark Angelo Nool from Manila, Philippines, and I am a student currently enrolled at Far Eastern University in Alabang. I really enjoy learning how to code and exploring new things related to not just computers but to technologies in general and how they work!
 
 ## Skills and Experience
 
