@@ -1,6 +1,6 @@
-Mark Angelo Nool
+# Mark Angelo Nool
 ![Computer Science Student @ FEU Alabang](https://pbs.twimg.com/profile_banners/926740634903363584/1683717752/600x200)
-#
+
 Hello there, 
 I'm Mark Angelo Nool from Manila, Philippines, and I am a student currently enrolled at Far Eastern University in Alabang. I really enjoy learning how to code and exploring new things related to not just computers but to technologies in general and how they work!
 
