@@ -7,7 +7,7 @@ Hello Mark Angelo Nool from Manila, Philippines! I am currently enrolled at Far 
 
 ## Skills and Experience
 
-- 📖 I’m currently learning: Java / C++ / Python / HTML / CSS / JS / Database / AI / Android Programming
+- 📖 I’m currently learning: Java / C++ / Python / HTML / CSS / JS / Database / Android Programming
 - 🤔 Interest : AI / WebDev / Coding / Robotics / Social Networking Privacy / Reverse Engineering / and more!
 
 ###
