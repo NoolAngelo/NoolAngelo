@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NoolAngelo/NoolAngelo" />
+
 <img src="https://github.com/NoolAngelo/NoolAngelo/blob/main/Banner.jpg" width="900"/>
 
 # Mark Angelo Nool
