@@ -8,7 +8,7 @@
 </h1>
 
 
-Hello Im Mark Angelo Nool from Manila, Philippines! I am currently enrolled at Far Eastern University in Alabang. I really enjoy learning to code and exploring new things related not just to computers but also to technologies in general, and how they work!
+Hello I'm Mark Angelo Nool from Manila, Philippines! I am currently enrolled at Far Eastern University in Alabang. I really enjoy learning to code and exploring new things related not just to computers but also to technologies in general, and how they work!
 
 
 ## Skills and Experience
