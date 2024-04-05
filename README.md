@@ -3,7 +3,10 @@
 
 <img src="https://github.com/NoolAngelo/NoolAngelo/blob/main/Banner.jpg" width="900"/>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Mark+Angelo+Nool)](https://git.io/typing-svg)
+<h1>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Mark+Angelo+Nool)](https://git.io/typing-svg)
+</h1>
+
 
 Hello Im Mark Angelo Nool from Manila, Philippines! I am currently enrolled at Far Eastern University in Alabang. I really enjoy learning to code and exploring new things related not just to computers but also to technologies in general, and how they work!
 
