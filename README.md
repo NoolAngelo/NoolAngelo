@@ -11,8 +11,9 @@
 Hello I'm Mark Angelo Nool from Manila, Philippines! I am currently enrolled at Far Eastern University in Alabang. I really enjoy learning to code and exploring new things related not just to computers but also to technologies in general, and how they work!
 
 
-## Skills and Experience
-
+##
+<h2> 🛠 Skills and Experience 🛠
+</h2>
 - 📖 I’m currently learning: Java / C++ / Python / HTML / CSS / JS / Database / Android Programming
 - 🤔 Interest : AI / WebDev / Coding / Robotics / Social Networking Privacy / Reverse Engineering / and more!
 
