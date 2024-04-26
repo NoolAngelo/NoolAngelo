@@ -11,7 +11,9 @@ Hello I'm Mark Angelo Nool from Manila, Philippines! I am currently enrolled at 
 ##
 <h2> 🛠 Skills and Experience 🛠
 </h2>
+
 *📖 I’m currently learning: Java / C++ / Python / HTML / CSS / JS / Database / Android Programming
+
 *🤔 Interest : AI / WebDev / Coding / Robotics / Social Networking Privacy / Reverse Engineering / and more!
 
 ###
