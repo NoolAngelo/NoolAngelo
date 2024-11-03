@@ -1,60 +1,35 @@
-<h1 align="center">Mark Angelo Nool</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=NoolAngelo/NoolAngelo" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A177FF&center=true&vCenter=true&random=false&width=440&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" /></a>
-</p>
+<img src="https://github.com/NoolAngelo/NoolAngelo/blob/main/Banner.jpg" width="900"/>
 
-<div align="center">
-  <p>🎓 Computer Science @ Far Eastern University Alabang</p>
-  <p>🌏 Based in Manila, Philippines</p>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=31&pause=1000&random=false&width=435&lines=Hi!+%F0%9F%96%90;I'm+Mark+Angelo+Nool!)](https://git.io/typing-svg)
 
-<br>
+Hello! I'm Mark Angelo Nool from Manila, Philippines. I am currently enrolled at Far Eastern University in Alabang. I really enjoy learning to code and exploring new things related not just to computers but also to technologies in general, and how they work!
 
-## About Me
+##
 
-I'm passionate about crafting elegant solutions through code. My journey in tech is driven by curiosity and a desire to create meaningful impact through software development.
+<h2> 🛠 Skills and Experience 🛠 </h2>
 
-## Tech Stack
+- **Languages**: Java, C++, Python, HTML, CSS, JavaScript, PHP
+- **Databases**: MySQL, PostgreSQL
+- **Interests**: AI, Web Development, Coding, and more!
 
-```javascript
-const skills = {
-  languages: ["Java", "C++", "Python", "JavaScript"],
-  web: ["HTML", "CSS", "PHP"],
-  databases: ["MySQL", "PostgreSQL"],
-  current_focus: {
-    learning: ["AI/ML", "Data Structures", "Algorithms"],
-    developing: ["Full-stack Applications", "Python Projects"],
-  },
-};
-```
+## 📖 Currently Exploring
 
-## Stats & Activity
+- Advanced Java programming
+- C++ algorithms and data structures
+- Python for data science and machine learning
+- Full-stack web development with HTML, CSS, and JavaScript
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NoolAngelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoolAngelo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## 🤔 Interests
 
-## Current Projects
+- Artificial Intelligence
+- Web Development
+- Coding Challenges
+- Exploring new technologies
 
-- 🤖 Exploring machine learning algorithms
-- 🌐 Building responsive web applications
-- 📚 Advancing data structure implementations
-- 🔍 Developing AI-driven solutions
+## 📫 How to reach me
 
-## Let's Connect
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NoolAngelo) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@NoolAngelo) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](http://www.youtube.com/@setsunaPH)
 
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoolAngelo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@NoolAngelo)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://www.youtube.com/@setsunaPH)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NoolAngelo&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views"/>
-</div>
+Feel free to check out my repositories and projects. I'm always open to collaboration and learning new things!
