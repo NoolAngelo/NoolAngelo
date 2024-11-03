@@ -2,8 +2,6 @@
 
 <img src="https://github.com/NoolAngelo/NoolAngelo/blob/main/Banner.jpg" width="900"/>
 
-# Mark Angelo Nool
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=31&pause=1000&random=false&width=435&lines=Hi!+%F0%9F%96%90;I'm+Mark+Angelo+Nool!)](https://git.io/typing-svg)
 
 👋 Hello! I'm a Computer Science student at Far Eastern University Alabang, passionate about technology and software development. Based in Manila, Philippines, I'm constantly exploring new technologies and expanding my programming knowledge.
