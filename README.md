@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-> Computer Science student at FEU Alabang passionate about crafting elegant solutions through code. Based in Manila, Philippines, exploring the frontiers of technology and innovation.
+> Computer Science student at FEU Alabang with a passion for software development and artificial intelligence. Based in Manila, Philippines, I'm constantly exploring technology and innovation.
 
 ## 🛠️ Tech Stack
 
