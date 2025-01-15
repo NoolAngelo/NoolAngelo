@@ -2,19 +2,37 @@
   <img src="https://github.com/NoolAngelo/NoolAngelo/blob/main/Banner.jpg" width="100%" alt="Profile Banner"/>
 </div>
 
-# Mark Angelo
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Mark+Angelo+%F0%9F%91%8B" alt="Mark Angelo"/>
+</h1>
 
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Enthusiast;Computer+Science+Student)](https://git.io/typing-svg)
 
+[![GitHub followers](https://img.shields.io/github/followers/NoolAngelo?style=social)](https://github.com/NoolAngelo)
+[![Years Badge](https://badges.pufler.dev/years/NoolAngelo)](https://github.com/NoolAngelo)
+[![Repos Badge](https://badges.pufler.dev/repos/NoolAngelo)](https://github.com/NoolAngelo)
+
 </div>
 
-## About
+## 🚀 About
 
-Computer Science student at FEU Alabang with a passion for software development and artificial intelligence. Based in Manila, Philippines, I'm constantly exploring technology and innovation.
+> Computer Science student at FEU Alabang with a passion for software development and artificial intelligence. Based in Manila, Philippines, I'm constantly exploring technology and innovation.
 
-## Focus Areas
+<details>
+<summary>⚡ More about me</summary>
+<br>
+  
+- 🎓 Currently studying Computer Science at FEU Alabang
+- 💻 Love working with Java, Python, and JavaScript
+- 🌱 Always learning and growing in tech
+- 🤝 Open to collaborations and interesting projects
+- 🎮 Gaming enthusiast in free time
+  
+</details>
+
+## 💻 Focus Areas
 
 ```python
 tech_stack = {
@@ -25,12 +43,27 @@ tech_stack = {
 }
 ```
 
-## Current Pursuits
+## 🎯 Current Pursuits
 
-- Mastering data structures and algorithms
-- Developing full-stack web applications
-- Exploring machine learning with Python
-- Building robust software solutions
+<div align="center">
+
+| 📚 Learning | 🛠️ Building | 🔍 Exploring |
+|------------|-------------|-------------|
+| Data Structures & Algorithms | Full-Stack Applications | Machine Learning |
+| System Design | Web Projects | AI Technologies |
+| Cloud Computing | Portfolio Website | Data Science |
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoolAngelo&theme=dark&hide_border=true)](https://github.com/NoolAngelo)
+
+</div>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -41,5 +74,7 @@ tech_stack = {
 </div>
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NoolAngelo/NoolAngelo" alt="Profile Views"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=NoolAngelo&style=flat-square&color=blue)
+
 </div>
