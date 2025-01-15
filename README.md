@@ -1,61 +1,45 @@
 <div align="center">
   <img src="https://github.com/NoolAngelo/NoolAngelo/blob/main/Banner.jpg" width="100%" alt="Profile Banner"/>
-  
-  # Mark Angelo
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Enthusiast;Tech+Explorer)](https://git.io/typing-svg)
-  
-  <p>
-    <a href="https://github.com/NoolAngelo">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://twitter.com/@NoolAngelo">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="http://www.youtube.com/@setsunaPH">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-    </a>
-  </p>
 </div>
 
-## 👨‍💻 About Me
-
-> Computer Science student at FEU Alabang with a passion for software development and artificial intelligence. Based in Manila, Philippines, I'm constantly exploring technology and innovation.
-
-## 🛠️ Tech Stack
+# Mark Angelo
 
 <div align="center">
-
-| Languages | Web Technologies | Data & Tools |
-|-----------|-----------------|--------------|
-| Java • C++ | HTML • CSS | MySQL |
-| Python | PHP | PostgreSQL |
-| JavaScript | React | Git |
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Enthusiast;Computer+Science+Student)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 Current Focus
+## About
 
-```javascript
-const currentProjects = {
-  learning: [
-    "Advanced Data Structures",
-    "Machine Learning Algorithms",
-    "Full-Stack Development"
-  ],
-  exploring: [
-    "Artificial Intelligence",
-    "Web Development",
-    "Software Architecture"
-  ],
-  passion: "Building solutions that matter"
-};
+Computer Science student at FEU Alabang with a passion for software development and artificial intelligence. Based in Manila, Philippines, I'm constantly exploring technology and innovation.
+
+## Focus Areas
+
+```python
+tech_stack = {
+    "languages": ["Java", "C++", "Python", "JavaScript"],
+    "web":       ["HTML", "CSS", "PHP"],
+    "database":  ["MySQL", "PostgreSQL"],
+    "interests": ["AI/ML", "Software Engineering", "Data Science"]
+}
 ```
 
-<div align="center">
-  
-  ### Let's build something amazing together! 
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=NoolAngelo&style=flat-square&color=4A90E2)](https://github.com/NoolAngelo)
+## Current Pursuits
 
+- Mastering data structures and algorithms
+- Developing full-stack web applications
+- Exploring machine learning with Python
+- Building robust software solutions
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoolAngelo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@NoolAngelo)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://www.youtube.com/@setsunaPH)
+
+</div>
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NoolAngelo/NoolAngelo" alt="Profile Views"/>
 </div>
