@@ -59,7 +59,7 @@ tech_stack = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NoolAngelo&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NoolAngelo)](https://git.io/streak-stats)
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoolAngelo&show_icons=true&theme=transparent&hide_border=true)
 
