@@ -58,8 +58,12 @@ tech_stack = {
 ## 📊 GitHub Stats
 
 <div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NoolAngelo&theme=transparent&hide_border=true)](https://git.io/streak-stats)
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoolAngelo&theme=dark&hide_border=true)](https://github.com/NoolAngelo)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoolAngelo&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoolAngelo&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
