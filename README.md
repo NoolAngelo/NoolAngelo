@@ -24,51 +24,52 @@
 
 ## 🚀 About
 
-> Computer Science student at **FEU Alabang** passionate about software development and AI. Based in Manila, Philippines, I'm constantly exploring technology and pushing the boundaries of what's possible through code. My focus spans from creating robust applications to exploring the potential of artificial intelligence.
+> Computer Science student at **FEU Alabang** passionate about software development and AI. Based in Manila, exploring technology and creating meaningful solutions through code.
 
 <details>
-<summary>⚡ More about me</summary>
-<br>
+<summary>More about me</summary>
   
-- 🎓 Currently studying Computer Science at FEU Alabang
-- 💻 OS that ive been using: MacOS and Windows.
-- 🌱 Always learning and growing in tech
-- 🤝 Open to collaborations and interesting projects
-- 🎮 Gaming enthusiast in free time
-  
+- 🎓 CS Student at FEU Alabang
+- 💻 MacOS & Windows user
+- 🌱 Continuous learner
+- 🤝 Open to collaboration
+- 🎮 Gaming enthusiast
 </details>
 
-## 💻 Skills & Interests
+## 💻 Skills
 
 <div align="center">
-
-| Languages  | Web Technologies |  Database  |      Interests       |
-| :--------: | :--------------: | :--------: | :------------------: |
-|    Java    |       HTML       |   MySQL    |        AI/ML         |
-|    C++     |       CSS        | PostgreSQL | Software Engineering |
-|   Python   |       PHP        |            |     Data Science     |
-| JavaScript |                  |            |                      |
-
+  <table>
+    <tr>
+      <td><b>Languages</b></td>
+      <td>Java, C++, Python, JavaScript</td>
+    </tr>
+    <tr>
+      <td><b>Web</b></td>
+      <td>HTML, CSS, PHP</td>
+    </tr>
+    <tr>
+      <td><b>Database</b></td>
+      <td>MySQL, PostgreSQL</td>
+    </tr>
+    <tr>
+      <td><b>Interests</b></td>
+      <td>AI/ML, Software Engineering, Data Science</td>
+    </tr>
+  </table>
 </div>
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoolAngelo&show_icons=true&theme=default&hide_border=true&hide=contribs&count_private=true&hide_title=true&hide_rank=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NoolAngelo&show_icons=true&theme=default&hide_border=true&hide=contribs&count_private=true&hide_title=true&hide_rank=true&bg_color=00000000" alt="GitHub Stats" height="150" />
 </div>
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoolAngelo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@NoolAngelo)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://www.youtube.com/@setsunaPH)
-
-</div>
-
-<div align="right">
-
-![Profile Views](https://komarev.com/ghpvc/?username=NoolAngelo&style=flat-square&color=blue)
-
+  <a href="https://github.com/NoolAngelo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://twitter.com/@NoolAngelo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="http://www.youtube.com/@setsunaPH"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <img src="https://komarev.com/ghpvc/?username=NoolAngelo&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
