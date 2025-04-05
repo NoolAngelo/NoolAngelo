@@ -25,7 +25,7 @@
 <br>
   
 - 🎓 Currently studying Computer Science at FEU Alabang
-- 💻 Love working with Java, Python, and JavaScript
+- 💻 OS that ive been using: MacOS and Windows.
 - 🌱 Always learning and growing in tech
 - 🤝 Open to collaborations and interesting projects
 - 🎮 Gaming enthusiast in free time
@@ -51,7 +51,7 @@ tech_stack = {
 |------------|-------------|-------------|
 | Data Structures & Algorithms | Full-Stack Applications | Machine Learning |
 | System Design | Web Projects | AI Technologies |
-| Cloud Computing | Portfolio Website | Data Science |
+| Databases | Portfolio Website | Networking and Security |
 
 </div>
 
