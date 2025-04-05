@@ -32,39 +32,51 @@
   
 </details>
 
-## 💻 Focus Areas
+## 💻 Skills & Interests
 
-```python
-tech_stack = {
-    "languages": ["Java", "C++", "Python", "JavaScript"],
-    "web":       ["HTML", "CSS", "PHP"],
-    "database":  ["MySQL", "PostgreSQL"],
-    "interests": ["AI/ML", "Software Engineering", "Data Science"]
-}
-```
+<div align="center">
+
+| Languages  | Web Technologies |  Database  |      Interests       |
+| :--------: | :--------------: | :--------: | :------------------: |
+|    Java    |       HTML       |   MySQL    |        AI/ML         |
+|    C++     |       CSS        | PostgreSQL | Software Engineering |
+|   Python   |       PHP        |            |     Data Science     |
+| JavaScript |                  |            |                      |
+
+</div>
 
 ## 🎯 Current Pursuits
 
 <div align="center">
-
-| 📚 Learning | 🛠️ Building | 🔍 Exploring |
-|------------|-------------|-------------|
-| Data Structures & Algorithms | Full-Stack Applications | Machine Learning |
-| System Design | Web Projects | AI Technologies |
-| Databases | Portfolio Website | Networking and Security |
-
+  <table>
+    <tr>
+      <td align="center"><b>Learning</b></td>
+      <td align="center"><b>Building</b></td>
+      <td align="center"><b>Exploring</b></td>
+    </tr>
+    <tr>
+      <td>Data Structures & Algorithms</td>
+      <td>Full-Stack Applications</td>
+      <td>Machine Learning</td>
+    </tr>
+    <tr>
+      <td>System Design</td>
+      <td>Web Projects</td>
+      <td>AI Technologies</td>
+    </tr>
+    <tr>
+      <td>Databases</td>
+      <td>Portfolio Website</td>
+      <td>Networking and Security</td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoolAngelo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoolAngelo&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoolAngelo&layout=compact&theme=transparent&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=NoolAngelo&show_icons=true&theme=default&hide_border=true&hide=contribs&count_private=true&hide_title=true&hide_rank=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoolAngelo&layout=compact&theme=default&hide_border=true&hide_title=true" alt="Top Languages" height="150" />
 </div>
 
 ## 🤝 Let's Connect
