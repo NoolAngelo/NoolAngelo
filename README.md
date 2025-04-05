@@ -51,38 +51,10 @@
 
 </div>
 
-## 🎯 Current Pursuits
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Learning</b></td>
-      <td align="center"><b>Building</b></td>
-      <td align="center"><b>Exploring</b></td>
-    </tr>
-    <tr>
-      <td>Data Structures & Algorithms</td>
-      <td>Full-Stack Applications</td>
-      <td>Machine Learning</td>
-    </tr>
-    <tr>
-      <td>System Design</td>
-      <td>Web Projects</td>
-      <td>AI Technologies</td>
-    </tr>
-    <tr>
-      <td>Databases</td>
-      <td>Portfolio Website</td>
-      <td>Networking and Security</td>
-    </tr>
-  </table>
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NoolAngelo&show_icons=true&theme=default&hide_border=true&hide=contribs&count_private=true&hide_title=true&hide_rank=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoolAngelo&layout=compact&theme=default&hide_border=true&hide_title=true" alt="Top Languages" height="150" />
 </div>
 
 ## 🤝 Let's Connect
