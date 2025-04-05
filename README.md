@@ -3,22 +3,28 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Mark+Angelo+%F0%9F%91%8B" alt="Mark Angelo"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Mark+Angelo+%F0%9F%91%8B" alt="Mark Angelo"/>
 </h1>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Enthusiast;Computer+Science+Student)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Software+Developer;AI+Enthusiast;Computer+Science+Student" alt="Typing SVG" /></a>
+</div>
 
-[![GitHub followers](https://img.shields.io/github/followers/NoolAngelo?style=social)](https://github.com/NoolAngelo)
-[![Years Badge](https://badges.pufler.dev/years/NoolAngelo)](https://github.com/NoolAngelo)
-[![Repos Badge](https://badges.pufler.dev/repos/NoolAngelo)](https://github.com/NoolAngelo)
-
+<div align="center">
+  <a href="https://github.com/NoolAngelo">
+    <img src="https://img.shields.io/github/followers/NoolAngelo?style=for-the-badge&logo=github&labelColor=0D1117&color=6E7681" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/NoolAngelo?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6E7681" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/NoolAngelo">
+    <img src="https://img.shields.io/badge/Student-Developer-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117&color=6E7681" alt="Developer"/>
+  </a>
 </div>
 
 ## 🚀 About
 
-> Computer Science student at FEU Alabang with a passion for software development and artificial intelligence. Based in Manila, Philippines, I'm constantly exploring technology and innovation.
+> Computer Science student at **FEU Alabang** passionate about software development and AI. Based in Manila, Philippines, I'm constantly exploring technology and pushing the boundaries of what's possible through code. My focus spans from creating robust applications to exploring the potential of artificial intelligence.
 
 <details>
 <summary>⚡ More about me</summary>
