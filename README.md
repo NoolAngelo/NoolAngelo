@@ -33,7 +33,7 @@
 - 💻 MacOS & Windows user
 - 🌱 Continuous learner
 - 🤝 Open to collaboration
-- 🎮 Gaming enthusiast
+- 🎮 Gaming and Playing Guitar
 </details>
 
 ## 💻 Skills
