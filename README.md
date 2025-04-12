@@ -65,13 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NoolAngelo&show_icons=true&theme=default&hide_border=true&hide=contribs&count_private=true&hide_title=true&hide_rank=true&bg_color=00000000" alt="GitHub Stats" height="150" />
 </div>
 
-## ⚡ Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoolAngelo&theme=default&hide_border=true&background=00000000" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoolAngelo&layout=compact&hide_border=true&bg_color=00000000" alt="Top Languages" />
-</div>
-
 ## 🤝 Connect
 
 <div align="center">
