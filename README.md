@@ -10,15 +10,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Software+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
 </div>
 
-## About Me
+## About
 
 Computer Science student at **FEU Alabang** passionate about software development and AI. Based in Manila, exploring technology and creating meaningful solutions through code.
-
-- 🎓 CS Student at FEU Alabang
-- 💻 MacOS & Windows user
-- 🌱 Continuous learner
-- 🤝 Open to collaboration
-- 🎮 Gaming and Playing Guitar
 
 ## Skills
 
@@ -43,7 +37,7 @@ Computer Science student at **FEU Alabang** passionate about software developmen
   </table>
 </div>
 
-## GitHub Stats
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NoolAngelo&show_icons=true&theme=default&hide_border=true&hide=contribs&count_private=true&hide_title=true&hide_rank=true&bg_color=00000000" alt="GitHub Stats" height="150" />
