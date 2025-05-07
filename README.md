@@ -54,5 +54,4 @@ Computer Science student at **FEU Alabang** passionate about software developmen
 <div align="center">
   <a href="https://github.com/NoolAngelo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://twitter.com/@NoolAngelo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="http://www.youtube.com/@setsunaPH"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </div>
