@@ -10,33 +10,17 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Software+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/NoolAngelo">
-    <img src="https://img.shields.io/github/followers/NoolAngelo?style=for-the-badge&logo=github&labelColor=0D1117&color=6E7681" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/NoolAngelo?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=6E7681" alt="Repositories"/>
-  </a>
-  <a href="https://github.com/NoolAngelo">
-    <img src="https://img.shields.io/badge/Student-Developer-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117&color=6E7681" alt="Developer"/>
-  </a>
-</div>
+## About Me
 
-## 🚀 About
+Computer Science student at **FEU Alabang** passionate about software development and AI. Based in Manila, exploring technology and creating meaningful solutions through code.
 
-> Computer Science student at **FEU Alabang** passionate about software development and AI. Based in Manila, exploring technology and creating meaningful solutions through code.
-
-<details>
-<summary>More about me</summary>
-  
 - 🎓 CS Student at FEU Alabang
 - 💻 MacOS & Windows user
 - 🌱 Continuous learner
 - 🤝 Open to collaboration
 - 🎮 Gaming and Playing Guitar
-</details>
 
-## 💻 Skills
+## Skills
 
 <div align="center">
   <table>
@@ -59,17 +43,16 @@
   </table>
 </div>
 
-## 📊 Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NoolAngelo&show_icons=true&theme=default&hide_border=true&hide=contribs&count_private=true&hide_title=true&hide_rank=true&bg_color=00000000" alt="GitHub Stats" height="150" />
 </div>
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
   <a href="https://github.com/NoolAngelo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://twitter.com/@NoolAngelo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="http://www.youtube.com/@setsunaPH"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <img src="https://komarev.com/ghpvc/?username=NoolAngelo&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
