@@ -3,12 +3,13 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Mark+Angelo+%F0%9F%91%8B" alt="Mark Angelo"/>
+  Mark Angelo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Software+Developer;Computer+Science+Student" alt="Typing SVG" /></a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Developer-6E7681?style=for-the-badge&logoColor=white" alt="Software Developer"/>
+  <img src="https://img.shields.io/badge/Computer_Science_Student-6E7681?style=for-the-badge&logoColor=white" alt="CS Student"/>
+</p>
 
 <div align="center">
   <a href="https://github.com/NoolAngelo"><img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=github" alt="GitHub"/></a>
