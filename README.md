@@ -27,7 +27,7 @@ Computer Science student at FEU Alabang passionate about software development an
 
 **Tech Stack**
 
-<div align="center">
+<div>
 
 ```
 Languages:    Java • C++ • Python • JavaScript
