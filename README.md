@@ -33,7 +33,7 @@ Computer Science student at FEU Alabang passionate about software development an
 Languages:    Java • C++ • Python • JavaScript
 Web:          HTML • CSS • PHP
 Database:     MySQL • PostgreSQL
-Interests:    AI/ML • Software Engineering • Data Science
+Interests:    ML/LLM • Software Engineering
 ```
 
 </div>
