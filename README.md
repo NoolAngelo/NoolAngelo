@@ -21,7 +21,7 @@
 
 **About**
 
-Computer Science student at FEU Alabang passionate about software development and AI. Based in Manila, exploring technology and creating meaningful solutions through code.
+Computer Science student, passionate about software development and AI. Based in Manila, exploring technology and creating meaningful solutions through code.
 
 <br>
 
