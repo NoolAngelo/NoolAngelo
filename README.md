@@ -31,8 +31,8 @@ Computer Science student, passionate about software development and AI. Based in
 
 ```
 Languages:    Java • C++ • Python • JavaScript
-Web:          HTML • CSS • PHP
-Database:     MySQL • PostgreSQL
+Web:          HTML • CSS • JSX • NodeJS
+Database:     MySQL • MongoDB
 Interests:    ML/LLM • Software Engineering
 ```
 
