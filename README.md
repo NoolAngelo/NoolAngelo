@@ -36,7 +36,7 @@ I'm a Computer Science student passionate about **Software Engineering** and **A
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-### 📊 Analytics
+### Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NoolAngelo&show_icons=true&hide_border=true&theme=transparent&hide_title=true&count_private=true" height="150" alt="stats graph" />
