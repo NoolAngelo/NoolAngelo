@@ -17,9 +17,9 @@
 
 <br />
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> About Me
+###  About Me
 
-I'm a Computer Science student passionate about **Software Engineering** and **AI**. Based in Manila, I build meaningful solutions and explore the frontiers of **ML/LLM**.
+I'm a passionate software engineer with specializing in building clean and innovative technological solutions to solve real world problems. Based in Manila, I provide meaningful solutions and development service alligned on clients needs and objectives, I am committed to implementing industry best practices in coding.
 
 <br />
 
