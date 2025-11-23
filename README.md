@@ -17,9 +17,9 @@
 
 <br />
 
-###  About Me
+### About Me
 
-I'm a passionate software engineer with specializing in building clean and innovative technological solutions to solve real world problems. Based in Manila, I provide meaningful solutions and development service alligned on clients needs and objectives, I am committed to implementing industry best practices in coding.
+I'm a passionate software engineer specializing in building clean, innovative technological solutions to solve real-world problems. Based in Manila, I provide meaningful and efficient services aligned with clients' needs and objectives. I am committed to implementing industry best practices in coding.
 
 <br />
 
