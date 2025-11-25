@@ -1,17 +1,16 @@
 <div align="center">
-<div align="center">
   <img src="https://github.com/NoolAngelo/NoolAngelo/blob/main/Banner.jpg" width="100%" alt="Profile Banner"/>
-</div>
+  
   <h1>Mark Angelo</h1>
+  
   <p>
     <strong>Computer Science Student</strong> · <strong>Software Developer</strong> · <strong>Manila</strong>
   </p>
   
   <p>
     <a href="https://noolangelo.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
-    <a href="https://twitter.com/noolangelo"><img src="https://img.shields.io/badge/Twitter-181717?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="https://twitter.com/noolangelo"><img src="https://img.shields.io/badge/Twitter-181717?style=flat-square&logo=x&logoColor=white" alt="Twitter"/></a>
     <a href="https://www.linkedin.com/in/mark-angelo-nool-876b24313/"><img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:.com"><img src="https://img.shields.io/badge/Email-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
 
@@ -36,9 +35,8 @@ I'm a passionate software engineer specializing in building clean, innovative te
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-### Analytics
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoolAngelo&show_icons=true&hide_border=true&theme=transparent&hide_title=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoolAngelo&layout=compact&hide_border=true&theme=transparent&hide_title=true" height="150" alt="languages graph" />
+  <sub>Open to collaborations and new opportunities. Let's build something great together.</sub>
 </div>
