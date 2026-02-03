@@ -22,7 +22,7 @@ I'm a passionate software engineer specializing in building clean, innovative te
 
 <br />
 
-### Tech Stack
+### Skills
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
