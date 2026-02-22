@@ -20,6 +20,8 @@
 
 I'm a passionate software engineer specializing in building clean, innovative technological solutions to solve real-world problems. Based in Manila, I provide meaningful and efficient services aligned with clients' needs and objectives. I am committed to implementing industry best practices in coding.
 
+I primarily work with the MERN stack (MongoDB, Express, React, Node.js) and build full-stack JavaScript applications.
+
 <br />
 
 ### Skills
@@ -29,9 +31,11 @@ I'm a passionate software engineer specializing in building clean, innovative te
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN-181717?style=flat-square&logo=react&logoColor=white" />
 </p>
 
 ---
