@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/NoolAngelo/NoolAngelo/blob/main/Banner.jpg" width="100%" alt="Profile Banner"/>
 
   <h1>Mark Angelo</h1>
 
@@ -29,9 +28,10 @@ I primarily work with the MERN stack (MongoDB, Express, React, Node.js) and buil
 #### Languages
 
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
 </p>
 
 #### Frontend
