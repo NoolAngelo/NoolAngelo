@@ -3,7 +3,7 @@
   <h1>Mark Angelo</h1>
 
   <p>
-    <strong>Computer Science Student</strong> · <strong>Software Developer</strong> · <strong>Manila</strong>
+    <strong>Computer Science </strong> · <strong>Software Developer</strong> · <strong>Manila</strong>
   </p>
 
   <p>
