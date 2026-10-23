@@ -17,7 +17,7 @@
 
 ### About Me
 
-I'm a passionate software engineer specializing in building clean, innovative technological solutions to solve real-world problems. Based in Manila, I provide meaningful and efficient services aligned with clients' needs and objectives. I am committed to implementing industry best practices in coding.
+I'm a passionate software engineer specializing in building clean, innovative technological solutions to solve real-world problems. Based in Manila, I provide meaningful and efficient services aligned with clients' needs and objectives. I am committed to writing maintainable code and following industry best practices.
 
 I primarily work with the MERN stack (MongoDB, Express, React, Node.js) and build full-stack JavaScript applications.
 
